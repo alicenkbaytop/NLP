@@ -1,0 +1,5 @@
+.env
+llama3.1_data.json
+alpaca_data_cleaned.json
+llama3.1-8b-test-tr
+llama3.1-8b-test-tr.gguf
