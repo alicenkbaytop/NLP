@@ -1,0 +1,5 @@
+streamlit 
+phi 
+yfinance
+phidata
+groq
