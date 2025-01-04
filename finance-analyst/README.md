@@ -1,1 +1,1 @@
-[![Watch the video]([https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg](https://github.com/alicenkbaytop/NLP/blob/main/finance-analyst/data/video.webm))]
+[![Watch the video](https://img.shields.io/badge/Click%20to%20Watch-Video-blue)](https://github.com/alicenkbaytop/NLP/raw/main/finance-analyst/data/video.webm)
