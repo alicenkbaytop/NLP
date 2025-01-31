@@ -1,4 +1,5 @@
 # README.md Generator
+[![Demo Page](https://img.shields.io/badge/Launch%20Demo-Page-blue?style=for-the-badge&logo=streamlit)](https://alicenkbaytop-readme-generator.streamlit.app/)
 
 https://github.com/user-attachments/assets/929bb3ea-a397-4177-bbd3-4ffff81a694f
 
