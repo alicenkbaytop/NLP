@@ -11,6 +11,7 @@ mkdir readme-generator
 cd readme-generator
 conda create -n "readme-generator" python==3.10
 conda activate readme-generator
+pip install -r requirements.txt
 code .
 ```
 add .env file and fill with firecrawl API key
