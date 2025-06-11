@@ -1,0 +1,14 @@
+streamlit==1.32.0
+folium==0.14.0
+python-dotenv==1.0.0
+langchain-groq
+requests==2.31.0
+pandas==2.1.4
+branca==0.7.0
+streamlit-folium==0.15.0
+Pillow==10.2.0
+fpdf==1.7.2
+streamlit-extras==0.3.6
+requests
+geopy
+spacy
