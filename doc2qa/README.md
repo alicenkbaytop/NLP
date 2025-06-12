@@ -13,18 +13,18 @@ A Streamlit web application that allows users to upload documents (PDF, images, 
 - ✅ Simple and user-friendly UI with Streamlit
 
 ---
-
-### git clone 
-### 📚 Python dependencies
-
-Install them with:
+## Installation
 
 ```bash
-pip install -r requirements.txt
+* git clone https://github.com/alicenkbaytop/NLP.git
+* cd doc2qa
+* pip install -r requirements.txt
 ```
 
-### Create .env file with your Groq API key:
-* GROQ_API_KEY
+## Create .env file with your Groq API key:
 
-### Run the app:
+* GROQ_API_KEY=""
+
+## Run the app:
+
 * streamlit run app.py
