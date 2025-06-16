@@ -1,0 +1,13 @@
+streamlit 
+ollama 
+requests 
+shapely 
+geopandas 
+folium
+streamlit-folium
+osmnx
+geopy
+json
+pprint
+pandas
+
