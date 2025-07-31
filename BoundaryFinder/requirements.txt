@@ -1,0 +1,11 @@
+shapely
+geopandas
+overpy
+osmnx
+matplotlib
+folium
+geopy
+nltk
+spacy
+streamlit
+streamlit_folium
